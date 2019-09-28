@@ -28,7 +28,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
     <img width="370" src="https://raw.githubusercontent.com/Sparoney/RcloneLab/master/docs/01.png">
 
-- Each account can have multiple VM sessions that last for 12 hours before they purges themselves - you can create a new session by going to **Runtime > Reset all runtimes...**
+- Each account can have multiple VM sessions that last for 12 hours before they purge themselves - you can create a new session by going to **Runtime > Reset all runtimes...**
 - The Colab tab needs to stay active, otherwise you will lose the connection to the VM, and it'll purge itself after a while due to inactivity.
 
 ## Screenshots
